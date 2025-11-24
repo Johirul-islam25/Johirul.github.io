@@ -6,10 +6,10 @@
 **Biotechnology Graduate** \
 **Molecular Biology & Bioinformatics Enthusiast**
 
-Dedicated to molecular diagnostics,  computational-  
-drug design, and antimicrobial resistance research.  
-Experienced in both wet-lab techniques and  
-bioinformatics tools.
+📧 Email: johirul@example.com  
+📞 Phone: +8801628200548  
+💼 LinkedIn: [Johirul Islam](https://www.linkedin.com/in/johislam/)
+📄 CV: [Download PDF](https://github.com/username/repo-name/raw/main/CV.pdf)
 
 </td>
 <td>
