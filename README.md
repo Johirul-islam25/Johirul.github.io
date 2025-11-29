@@ -6,10 +6,10 @@
 **Biotechnology Graduate** \
 **Molecular Biology & Bioinformatics Enthusiast**
 
-📧 Email: johirul@example.com  
+📧 Email: johirulislam121997@gmail.com  
 📞 Phone: +8801628200548  
 💼 LinkedIn: [Johirul Islam](https://www.linkedin.com/in/johislam/)
-📄 CV: [Download PDF](https://github.com/username/repo-name/raw/main/CV.pdf)
+📄 Academic CV: [View PDF](https://github.com/Johirul-islam25/Johirul.github.io/blob/main/Johirul_Islam_Academic_CV.pdf)
 
 </td>
 <td>
@@ -74,7 +74,7 @@ My research interests lie in molecular biology, biotechnology, and bioinformatic
 - **SQL** – Database querying, data manipulation
 - **SPSS** – Statistical modeling, hypothesis testing, data analysis
 
-## Projects:
+## BSc Projects:
 
 * An *In Silico* Pharmacological And Molecular Docking Approach For The 
 Development Of Potential Inhibitors Against CTX-M-9 Class A Beta- 
@@ -82,11 +82,14 @@ Lactamase from _Escherichia coli_.
 
 ## Manuscripts in Preparation:
 - CNS-Oriented Virtual Screening Identifies Putative AChE Inhibitors via an Open and Reproducible CADD Workflow.
-- Therapeutic Targeting of the HPV E6/E7–p53/Rb Axis in Cervical Neoplasia: Molecular Insights
 - Neurotoxicological Impacts of Agrochemicals and Heat Stress: Neuroinflammation, Neurodegeneration, and Alzheimer’s Risk in the Context of Climate-Smart Agriculture
 - Microbiological Insights into the Gut–Brain Axis: Neuroinflammation, Therapeutic Frontiers, and Clinical Perspectives in Neuromedicine
 - Emerging Neurological Implications of Monkeypox Infection: A Comprehensive Review of Recent Advances and Research Gaps
 - Nanomedicine Approaches in Neuromedicine: Balancing Therapeutic Delivery and Neurotoxicity – A Critical Review
+- Structure-Based Virtual Screening Identifies Novel Androgen Receptor Inhibitors for Castration-Resistant Prostate Cancer
+## Manuscripts Under Review
+- Therapeutic Targeting of the HPV E6/E7–p53/Rb Axis in Cervical Neoplasia: Molecular Insights, Emerging Strategies, and Translational Opportunities.  
+  Submitted to _Infectious Agents and Cancer (Springer Nature)_, 2025
 
 ## Volunteer & Professional Involvement:
 
