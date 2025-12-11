@@ -78,7 +78,9 @@ My research interests lie in molecular biology, biotechnology, and bioinformatic
 
 * An *In Silico* Pharmacological And Molecular Docking Approach For The 
 Development Of Potential Inhibitors Against CTX-M-9 Class A Beta- 
-Lactamase from _Escherichia coli_. 
+Lactamase from _Escherichia coli_.   
+[Download My Project PDF](https://github.com/Johirul-islam25/Johirul.github.io/raw/main/Project_Personal_Copy.pdf)  
+
 
 ## Manuscripts in Preparation:
 - CNS-Oriented Virtual Screening Identifies Putative AChE Inhibitors via an Open and Reproducible CADD Workflow.
