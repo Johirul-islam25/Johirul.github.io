@@ -83,7 +83,10 @@ Lactamase from _Escherichia coli_.
 
 
 ## Manuscripts in Preparation:
+- _In Silico_ Discovery of CTX-M-9 Extended-Spectrum β-Lactamase Inhibitors: An Integrated Approach Combining Large-Scale Docking and Molecular Dynamics Simulations.
+- Structure-Based Virtual Screening of the ZINC15 Database Against the Androgen Receptor to Identify Potential Antagonists: Docking and MD Simulation Insights.
 - CNS-Oriented Virtual Screening Identifies Putative AChE Inhibitors via an Open and Reproducible CADD Workflow.
+- Crystal Violet Dye Degradation Using Monoculture and Blended Culture Bacteria Isolated from Poultry Faeces.
 - Neurotoxicological Impacts of Agrochemicals and Heat Stress: Neuroinflammation, Neurodegeneration, and Alzheimer’s Risk in the Context of Climate-Smart Agriculture
 - Microbiological Insights into the Gut–Brain Axis: Neuroinflammation, Therapeutic Frontiers, and Clinical Perspectives in Neuromedicine
 - Emerging Neurological Implications of Monkeypox Infection: A Comprehensive Review of Recent Advances and Research Gaps
@@ -103,8 +106,8 @@ Lactamase from _Escherichia coli_.
   Participated in biodiversity surveys (Bird Species around campus areas), environmental awareness activities, and conservation-focused fieldwork.
 
 ###  Current Roles:
-- **Research Assistant, NeuroBridge Research Bangladesh**  
+- **Research Assistant, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
   Contributing to ongoing research projects in molecular biology, biotechnology, and computational biology.
 
 - **Bioinformatics Instructor, NeuroBridge Research Bangladesh**  
-  Conducting workshops and training sessions on bioinformatics tools, computational analysis, Computer-Aided Drug Design(CADD), and data interpretation
+  Conducting workshops and training sessions on basic bioinformatics, tools, computational analysis, Computer-Aided Drug Design(CADD), Vaccine Design, and data Interpretation.
