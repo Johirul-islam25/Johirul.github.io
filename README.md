@@ -162,4 +162,4 @@ Lactamase from _Escherichia coli_.
 - **Research Assistant, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
 
 - **Bioinformatics Instructor, NeuroBridge Research Bangladesh**  
-  Conducting workshops and training sessions on basic bioinformatics, tools, computational analysis, Computer-Aided Drug Design(CADD), Vaccine Design, and data Interpretation.
+  Conducting workshops and training sessions on basic bioinformatics, bioinformatics tools, computational analysis, Computer-Aided Drug Design(CADD), Vaccine Design, and data Interpretation.
