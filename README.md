@@ -160,7 +160,7 @@ Lactamase from _Escherichia coli_.
 
 </table>
 
-### 🧑‍💻 Programming, Scripting & Data Analysis  
+### 🧑‍💻 Programming & Data Analysis  
 **Python (Basic–Intermediate)**  
 - Core Python concepts: operators, conditional and logical statements, loops  
 - Built-in data structures: list, tuple, set, dictionary  
