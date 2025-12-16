@@ -21,7 +21,7 @@
 </table>
 
 ## 🔬Research Interest:
-My research interests lie in molecular biology, biotechnology, and bioinformatics, with a focus on developing advanced diagnostic tools and therapeutic strategies to improve human and animal health. I am particularly interested in applying molecular and computational approaches to disease detection and treatment, as well as exploring the potential of biomaterials and regenerative medicine for biomedical applications. My goal is to contribute to innovative solutions that address complex challenges in the healthcare and life sciences sectors.
+My research interests lie in molecular biology, biotechnology, and bioinformatics, with a focus on developing advanced diagnostic tools and therapeutic strategies to improve human and animal health.
 
 ## BSc Projects:
 
@@ -36,11 +36,8 @@ Lactamase from _Escherichia coli_.
 - Structure-Based Virtual Screening of the ZINC15 Database Against the Androgen Receptor to Identify Potential Antagonists: Docking and MD Simulation Insights.
 - CNS-Oriented Virtual Screening Identifies Putative AChE Inhibitors via an Open and Reproducible CADD Workflow.
 - Crystal Violet Dye Degradation Using Monoculture and Blended Culture Bacteria Isolated from Poultry Faeces.
-- Neurotoxicological Impacts of Agrochemicals and Heat Stress: Neuroinflammation, Neurodegeneration, and Alzheimer’s Risk in the Context of Climate-Smart Agriculture
-- Microbiological Insights into the Gut–Brain Axis: Neuroinflammation, Therapeutic Frontiers, and Clinical Perspectives in Neuromedicine
-- Emerging Neurological Implications of Monkeypox Infection: A Comprehensive Review of Recent Advances and Research Gaps
-- Nanomedicine Approaches in Neuromedicine: Balancing Therapeutic Delivery and Neurotoxicity – A Critical Review
-- Structure-Based Virtual Screening Identifies Novel Androgen Receptor Inhibitors for Castration-Resistant Prostate Cancer
+- Emerging Neurological Implications of Monkeypox Infection: A Comprehensive Review of Recent Advances and Research Gaps  
+
 ## Manuscripts Under Review
 - Therapeutic Targeting of the HPV E6/E7–p53/Rb Axis in Cervical Neoplasia: Molecular Insights, Emerging Strategies, and Translational Opportunities.  
   Submitted to _Infectious Agents and Cancer (Springer Nature)_, 2025
@@ -58,52 +55,72 @@ Lactamase from _Escherichia coli_.
 - Basic Microbiology & Biochemical 
 
 ### 💻 Computational Biology & Bioinformatics Skills
-- **Drug Discovery & Computational Chemistry**
-  - Molecular Docking (PyRx, Auto Dock Vina)
-  - Virtual Screening
-  - ADMET Analysis
-  - Ligand Preparation & Protein Processing (AutoDock tools, Chimera, Discovery Studio, PyMOL, etc.)
-- **Molecular Dynamics**
-  - MD Simulations (GROMACS)
-  - RMSD, RMSF, PCA
-  - Energy Minimization & Stability Testing
-- **Genomics**
-  - Whole Genome Sequencing (WGS) Analysis  
-  - Next-Generation Sequencing (NGS) Data Analysis  
-  - Genome Annotation & Variant Analysis  
-  - FASTQ, BAM, VCF Handling
 
-- **Immunoinformatics & Vaccine Design**
+#### Computer-Aided Drug Design (CADD)
+- Ligand preparation and receptor processing using AutoDock Tools, ChimeraX, Discovery Studio, and PyMOL  
+- Virtual screening of small molecules  
+- ADMET analysis using pKCSM, ProTox-II, and SwissADME  
+- Molecular docking using PyRx  
 
-- **Epitope Prediction**
-  - T-cell (CTL, HTL), B-cell, MHC-I & MHC-II binding prediction
+#### Molecular Dynamics
+- MD simulations using GROMACS  
+- RMSD, RMSF, and PCA analysis  
+- Energy minimization and stability testing  
 
-- **Physicochemical & Immunological Filtering**
-  - Antigenicity, allergenicity, toxicity, solubility
-  - Proteasomal cleavage & TAP transport prediction
 
-- **Population Coverage Analysis**
+### 🧬 Genomics
 
-- **Multi-epitope Vaccine (MEV) Construction**
-  - Linkers, adjuvant selection, sequence assembly
-  - Solubility & immunogenicity assessment
+#### NGS / WGS Data Analysis (Basic–Intermediate)
+- Basic knowledge of the **Linux operating system** for bioinformatics workflows  
+- Environment and package management using Anaconda  
+- Quality assessment of raw sequencing data using FastQC  
+- Read trimming and quality improvement using Trimmomatic  
+- Short-read genome assembly using SPAdes and long-read genome assembly using Flye  
+- Assembly quality assessment using QUAST and completeness evaluation using BUSCO  
+- Prokaryotic genome annotation using Prokka  
 
-- **3D Structure Modeling**
-  - Ab initio & comparative modeling (AlphaFold, RaptorX, Phyre2)
+#### Sequence Analysis
+- Handling and processing sequence data (FASTA, FASTQ, BAM, VCF)  
+- Sequence cleaning and preparation using BioEdit  
+- Similarity search and sequence identification using NCBI BLAST (nucleotide BLAST, BLASTx, tBLASTn, protein BLAST)  
+- Pairwise and multiple sequence alignment using BioEdit, ClustalW, and ClustalX  
 
-- **Structure Refinement & Quality Validation**
-  - Ramachandran plot, Verify3D, ERRAT, ProSA-web
+#### Phylogenetic Analysis
+- Phylogenetic tree construction and interpretation using MEGA  
+- Methods: maximum parsimony, distance-based, and maximum likelihood
+- Analysis of evolutionary relationships among sequences or populations  
 
-- **Docking with Immune Receptors**
-  - TLR docking (TLR4, TLR2, etc.)
-  - Protein–protein docking (ClusPro, HDOCK)
 
-- **MD Simulation of Vaccine–Receptor Complex**
-  - Stability, binding energy, RMSD, RMSF
+### 🧫 Immunoinformatics & Vaccine Design
 
-- **Immune Simulation**
-  - _In silico_ immune response modeling (C-ImmSim)
+#### Epitope Prediction
+- T-cell (CTL, HTL), B-cell, MHC-I & MHC-II binding prediction  
 
+#### Physicochemical & Immunological Filtering
+- Antigenicity, allergenicity, toxicity, solubility  
+- Proteasomal cleavage & TAP transport prediction  
+
+#### Population Coverage Analysis
+
+#### Multi-epitope Vaccine (MEV) Construction
+- Linkers, adjuvant selection, sequence assembly  
+- Solubility & immunogenicity assessment  
+
+#### 3D Structure Modeling
+- Ab initio & comparative modeling (AlphaFold, RaptorX, Phyre2)  
+
+#### Structure Refinement & Quality Validation
+- Ramachandran plot, Verify3D, ERRAT, ProSA-web  
+
+#### Docking with Immune Receptors
+- TLR docking (TLR4, TLR2, etc.)  
+- Protein–protein docking (ClusPro, HDOCK)  
+
+#### MD Simulation of Vaccine–Receptor Complex
+- Stability, binding energy, RMSD, RMSF  
+
+#### Immune Simulation
+- _In silico_ immune response modeling using C-ImmSim  
 ### 🛠️ Tools & Software
 
 - PyMOL
@@ -116,7 +133,7 @@ Lactamase from _Escherichia coli_.
 - BioEdit 
 - Galaxy  
 - BLAST  
-- Clustal Omega  
+- ClustalX 
 - Chimera X
 - PyRx 
 - XAMPP
@@ -135,7 +152,7 @@ Lactamase from _Escherichia coli_.
 
   <!-- Row 2: Comma-separated items -->
   <tr>
-    <td>RCSB PDB, UniProt, SwissADME, pkCSM, ProTox-II, PubChem</td>
+    <td>RCSB PDB, Zinc15, RAMPAGE, UniProt, SwissADME, pkCSM, ProTox-II, PubChem</td>
     <td>IEDB Analysis Resources, VaxiJen, AllerTOP, ToxinPred, ToxinPred2, SOLpro, RaptorX, Phyre2, AlphaFold, ProSA-web, ERRAT, Verify3D, ClusPro, HADDOCK</td>
     <td>NCBI, ExPASy Tools, UCSC Genome Browser, EMBL-EBI (InterProScan, MSA Tools)</td>
     <td>NCBI Primer-BLAST, TMHMM, SignalP, ProtParam, PSIPRED</td>
@@ -143,11 +160,23 @@ Lactamase from _Escherichia coli_.
 
 </table>
 
-### 🧑‍💻 Programming, Scripting & Data Analysis
-- **Python** –  Data analysis, file parsing
-- **R** – Statistical analysis, data visualization 
-- **SQL** – Database querying, data manipulation
-- **SPSS** – Statistical modeling, hypothesis testing, data analysis
+### 🧑‍💻 Programming, Scripting & Data Analysis  
+**Python (Basic–Intermediate)**  
+- Core Python concepts: operators, conditional and logical statements, loops  
+- Built-in data structures: list, tuple, set, dictionary  
+- Basic function usage and error handling  
+
+**R (Intermediate–Advanced)**  
+- Familiar with the R environment and RStudio  
+- Create and modify data structures; use conditional statements, loops, and functions  
+- Data manipulation using Base R and `dplyr` (`select`, `filter`, `mutate`, `group_by`, `summarise`)  
+- Apply basic statistical concepts and compute summary statistics  
+- Create clean, reproducible plots using `ggplot2`  
+
+**SQL**  
+- Database and table creation using XAMPP  
+- Data manipulation using DDL (`CREATE`, `ALTER`, `DROP`) and DML (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)  
+- Querying and joining tables for structured data analysis  
 
 ## Volunteer & Professional Involvement:
 
@@ -159,7 +188,6 @@ Lactamase from _Escherichia coli_.
   Participated in biodiversity surveys (Bird Species around campus areas), environmental awareness activities, and conservation-focused fieldwork.
 
 ###  Current Roles:
-- **Research Assistant, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
+- **Admin & Bioinformatics Instructor, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
 
-- **Bioinformatics Instructor, NeuroBridge Research Bangladesh**  
-  Conducting workshops and training sessions on basic bioinformatics, bioinformatics tools, computational analysis, Computer-Aided Drug Design(CADD), Vaccine Design, and data Interpretation.
+Leading and coordinating an international team from India, Egypt, Italy, Pakistan, Iran, and Bangladesh. Conducting training sessions and workshops on basic bioinformatics,    bioinformatics tools, computational analysis, Computer-Aided Drug Design (CADD), Vaccine Design, and data interpretation. Overseeing collaborative projects and facilitating knowledge sharing among team members.
