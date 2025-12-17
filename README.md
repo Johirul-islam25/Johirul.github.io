@@ -52,7 +52,7 @@ Lactamase from _Escherichia coli_.
 - RAPD (Random Amplified Polymorphic DNA)
 - AFLP (Amplified Fragment Length Polymorphism)
 - RFLP & Other Molecular Marker Techniques
-- Basic Microbiology & Biochemical 
+- Basic Microbiology & Biochemistry Techniques
 
 ### 💻 Computational Biology & Bioinformatics Skills
 
@@ -191,3 +191,4 @@ Lactamase from _Escherichia coli_.
 - **Admin & Bioinformatics Instructor, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
 
 Leading and coordinating an international team from India, Egypt, Italy, Pakistan, Iran, and Bangladesh. Conducting training sessions and workshops on basic bioinformatics,    bioinformatics tools, computational analysis, Computer-Aided Drug Design (CADD), Vaccine Design, and data interpretation. Overseeing collaborative projects and facilitating knowledge sharing among team members.
+**[See Our Current Project](https://sites.google.com/view/neurobridge-bd/projects)**
