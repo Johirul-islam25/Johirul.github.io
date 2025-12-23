@@ -191,4 +191,14 @@ Lactamase from _Escherichia coli_.
 - **Admin & Bioinformatics Instructor, [NeuroBridge Research Bangladesh](https://sites.google.com/view/neurobridge-bd#h.xwk5bmuj12dg)**
 
 Leading and coordinating an international team from India, Egypt, Italy, Pakistan, Iran, and Bangladesh. Conducting training sessions and workshops on basic bioinformatics,    bioinformatics tools, computational analysis, Computer-Aided Drug Design (CADD), Vaccine Design, and data interpretation. Overseeing collaborative projects and facilitating knowledge sharing among team members.
-**[See Our Current Project](https://sites.google.com/view/neurobridge-bd/projects)**
+**[See Our Current Project](https://sites.google.com/view/neurobridge-bd/projects)**  
+
+## 🏆 Honors & Achievements  
+- **Top 10 Innovator – Environment Innovation Summit & Awards 2025** (Led team NeuroBridge Research Bangladesh proposing a coconut-husk–based sustainable biofuel solution)
+- **Best Oral Presentation Award – Introduction to Biochemistry**
+- **National Finalist – Bangladesh Botany Olympiad, 2017**
+
+
+
+
+
