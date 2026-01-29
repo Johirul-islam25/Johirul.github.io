@@ -42,13 +42,13 @@ Lactamase from _Escherichia coli_.
 - Therapeutic Targeting of the HPV E6/E7–p53/Rb Axis in Cervical Neoplasia: Molecular Insights, Emerging Strategies, and Translational Opportunities.  
   Submitted to _Infectious Agents and Cancer (Springer Nature)_, 2025 
   
-## 📢 Conferences
+## Conferences
 
 - 🎤 **15th International Zeugma Congress on Scientific Research**  
-  📍 Gaziantep, Türkiye | 📅 January 19–21, 2026  
-  - **Paper:** *Crystal Violet Dye Degradation Using Monoculture and Blended Culture Bacteria Isolated from Poultry Faeces*  
-  - **Role:** Oral & Technical Presenter  
-  - **[🏅 Certificate of Participation](https://drive.google.com/file/d/11k0Ev0XfxbC-f42c2WwYzJAdNR97Fxs5/view?usp=sharing)**
+📍 Gaziantep, Türkiye | January 19–21, 2026  
+- **Paper:** *Crystal Violet Dye Degradation Using Monoculture and Blended Culture Bacteria Isolated from Poultry Faeces*  
+- **Role:** Oral & Technical Presenter  
+- **[🏅 Certificate of Participation](https://drive.google.com/file/d/11k0Ev0XfxbC-f42c2WwYzJAdNR97Fxs5/view?usp=sharing)**
 
 ## 🧬 Skills:
 
